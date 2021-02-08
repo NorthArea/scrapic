@@ -1,7 +1,7 @@
 from unittest import TestCase
 from time import sleep
 from random import random
-from scrapic.scrapic import Scrapic
+from scrapic import Scrapic
 
 
 class ScrapicTest(TestCase):

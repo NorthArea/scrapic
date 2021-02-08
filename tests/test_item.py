@@ -1,5 +1,5 @@
 import unittest
-from scrapic.item import Item
+from scrapic import Item
 
 
 class ItemTest(unittest.TestCase):

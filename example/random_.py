@@ -1,6 +1,6 @@
 from random import random
 from time import sleep
-from scrapic.scrapic import Scrapic
+from scrapic import Scrapic
 
 a = 10
 
